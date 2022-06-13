@@ -81,4 +81,5 @@ Gitee账户及最终提交的账户，均要签署CLA，否则无法提交PR
 
 ## 流程图示
 
-![社区仓库运作流程-V1](Readme.assets/社区仓库运作流程-V1.png)
+![社区仓库运作流程-V2](Readme.assets/社区仓库运作流程-V2.png)
+
