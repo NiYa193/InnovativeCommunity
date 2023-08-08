@@ -28,10 +28,13 @@ Gitee账户及最终提交的账户，均要签署CLA，否则无法提交PR
 
 
 
-### Rust 工具链构筑 - 待补充
-
-> [网址](https://openx.huawei.com/communityHome/postDetail?postId=3177&id=90&sid=722e5e7db9e711eba17afa163efec54d&source=w3)
-
+### Rust 工具链构筑
+1. 基础构建工具：rustup/cargo
+2. 相关依赖检查：cargo-tree/cargo-degraph
+3. 漏洞检查、静态扫描、动态扫描：cargo-audit/clippy/rustfmt/sanitizer
+4. 度量工具：rust-code-analysis
+5. 测试工具：cargo-fuzz/cargo-benchcmp
+6. 开发及运维工具：rustfix/cargo-script
 
 
 ### 代码合入、PR提交、Committer运作等F&Q
